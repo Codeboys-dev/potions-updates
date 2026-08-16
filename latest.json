@@ -2,16 +2,16 @@
   "schemaVersion": 1,
   "channel": "playtest",
   "build": {
-    "id": "2026.08.15-023",
-    "sequence": 20260815023,
-    "publishedUtc": "2026-08-16T01:08:46Z",
+    "id": "2026.08.15-024",
+    "sequence": 20260815024,
+    "publishedUtc": "2026-08-16T02:16:09Z",
     "minUpdaterVersion": "1.0.1",
     "entrypoint": "Windows/PotionsCore.exe",
     "package": {
-      "url": "https://github.com/Codeboys-dev/potions-updates/releases/download/2026.08.15-023/PotionsCore-Win64-Dev-2026.08.15-023.zip",
-      "sizeBytes": 777002924,
-      "sha256": "969bafebaffd55b15a820c3064c07152443ef0cd67deecab27e41924dc2e2d38",
-      "uncompressedBytes": 1558874777,
+      "url": "https://github.com/Codeboys-dev/potions-updates/releases/download/2026.08.15-024/PotionsCore-Win64-Dev-2026.08.15-024.zip",
+      "sizeBytes": 777040662,
+      "sha256": "ea3afa8a02c2275a2ac1f2452c773017520e2806531e5e63f2c888d84af68951",
+      "uncompressedBytes": 1558964377,
       "fileCount": 122
     }
   }
